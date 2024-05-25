@@ -1,7 +1,7 @@
 ---
-title: "test post via framework astro blog"
+title: "Joker"
 pubDate: "2023-12-5"
-slug: "test-post-via-framework-astro-blog"
+slug: "joker"
 description: "it's just litle test eh!!"
 hero: "/images/joekr.jpg"
 tags: ["candu"]
