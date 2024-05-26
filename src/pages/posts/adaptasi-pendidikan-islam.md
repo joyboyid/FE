@@ -6,7 +6,9 @@ hero: "/images/sekolah.jpeg"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
-Madrasah merupakan rekonstruksi sistem pendidikan islam, bentuk representasi dari pada pondok pesantren. Usia madrasah lebih muda dari pada pondok pesantren. Madrasah lahir pada awal abad ke-`20`, sedang pesantren jauh sebelum itu, bahkan terdeteksi pada masa awal masuknya islam di Indonesia. Kelahiran madrasah merupakan salah satu tanda pertumbuhan dan perkembangan sistem pendidikan islam.
+
+
+Madrasah merupakan rekonstruksi sistem pendidikan islam, bentuk representasi dari pada pondok pesantren. Usia madrasah lebih muda dari pada pondok pesantren. Madrasah lahir pada awal abad ke-20, sedang pesantren jauh sebelum itu, bahkan terdeteksi pada masa awal masuknya islam di Indonesia. Kelahiran madrasah merupakan salah satu tanda pertumbuhan dan perkembangan sistem pendidikan islam.
 
 Dalam literatur sejarah pendidikan islam, seperti yang disampaikan oleh Prof. Dr. H. Haidar Putra Daulay, M.A. dalam bukunya yang berjudul “Sejarah Pertumbuhan dan Pengembangan Pendidikan Islam” ditegaskan bahwa, perjalanan sejarah pendidikan islam di Indonesia hingga saat sekarang ini telah melalui tiga periodesasi. 
 
@@ -15,9 +17,9 @@ Pertama, periode awal sejak kedatangan Islam di Indonesia sampai masuknya ide-id
 Periode kedua, periode ini telah dimasuki oleh ide-ide pembaharuan pemikiran islam awal abad ke-20. Periode ini ditandai denga lahirnya madrasah. Sebagian lembaga-lembaga pendidikan Islam yang telah memasukkan mata pelajaran umum ke dalam program kurikulum mereka, dan juga telah mengadopsi sistem pendidikan modern, seperti metode, manajerial, klasikal, dan lain sebagainya.
 
 Ketiga, pendidikan Islam telah terintegrasi ke dalam sistem pendidikan nasional sejak lahirnya 
-```
 Undang-Undang  Nomor 2 Tahun 1989 dilanjutkan pula dengan Undang-Undang Nomor 20 Tahun 2003. Berdasarkan undang-undang dan peraturan pemerintah tentang pendidikan dapat dilihat bahwa posisi pendidikan Islam dalam sistem pendidikan nasional meliputi: pendidikan islam sebagai mata pelajaran, pendidikan islam sebagai lembaga, pendidikan islam sebagai nilai. 
-```
+
+
 Perubahan sistem pendidikan Islam di Indonesia, dari pesantren ke madrasah, merupakan bentuk adaptasi terhadap dunia modern. Perubahan ini juga dipengaruhi oleh perubahan sosial-budaya yang menyangkut peran ulama. Prof. Dr. Kuntowijoyo dalam bukunya yang berjudul Muslim Tanpa Masjid membagi tiga skema perubahan sosial-budaya, yaitu Masyarakat pra-Industrial, semi-industrial, dan masyarakat industrial.
 Dari skema perubahan sosial-budaya di atas, Prof. Dr. Kuntowijoyo dalam konteks pendidikan melihat pola hubungan antar ulama dengan santri dan ulama dengan kurikulum, yaitu dari hubungan personal menuju hubungan yang impersonal dan dari pendidikan islam model pesantren menuju madrasah. 
 
@@ -47,3 +49,6 @@ Oleh karena itu, melihat kondisi hari ini, dunia pendidikan harus menyentuh duni
 Setelah anak didik mampu beradpatasi dengan pembelajaran digital atau secara virtual, baru membuat strategi lebih lanjut. Mulai dari motivasi, model, metode, planing, dan sebagainya. Menciptakan sebuah pembelajran secara virtual lebih menarik. Mulai dari menyiapkan bahan-bahan, mengatur tata ruang virtual layaknya kelas seperti biasanya, menyajikan materi pembelajaran sekreatif dan seinovatif mungkin, dan sebagainya. Bahkan lembaga pendidikan juga dapat memberikan kesempatan kepada anak didik untuk menumpahkan ekspresi serta imajinasi dalam ruang digital atau virtual, seperti ruang menulis, melukis, bahkan hingga bermain.
 
 Mungkin itu merupakan suatu hal yang sulit. Namun, justru itulah yang menjadi tantangannya. Bukankah banyak rintangan dan tantangan yang dihadapi oleh generasi-generasi terdahulu? Dengan berkalborasi dan jalinan kerjasama yang baik, pasti bisa berjalan dengan baik. Sama halnya dengan apa yang dilakukan oleh tokoh-tokoh terdahulu dalam meperjuangkan perkembangan dan pertumbuhan serta kemajuan dunia pendidikan, termasuk pendidikan islam, di Indonesia. Maka dari itu, sudah saatnya lembaga pendidikan islam (madrasah) membuat dan menciptakan dobrakan serta gebrakan baru dalam dunia pendidikan, sebelum semuanya terlambat. Supaya tidak gelabakan dan gelisah di kemudian hari.
+
+
+##### **Author: ~KON**
