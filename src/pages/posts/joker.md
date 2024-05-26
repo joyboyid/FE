@@ -1,5 +1,6 @@
 ---
 title: "Joker"
+description: "joker i owe ya"
 pubDate: "2023-12-5"
 slug: "joker"
 description: "it's just litle test eh!!"
