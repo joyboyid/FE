@@ -1,7 +1,7 @@
 ---
 title: "ALUNAN BUDAYA DARI SUDUT PANDANG PEMUNGUT SAMPAH PLASTIK PASCA EVENT"
 description: "Alunan Budaya Dengan Hujan"
-pubDate: "2024-07-21"
+pubDate: "2024-07-20"
 hero: "/images/evid.jpg"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
