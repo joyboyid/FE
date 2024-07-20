@@ -2,7 +2,7 @@
 title: "Joker"
 description: "joker i owe ya"
 pubDate: "2023-12-5"
-slug: "joker"
+# slug: "joker"
 hero: "/images/joker.jpg"
 tags: ["candu"]
 layout: "../../layouts/BlogPostLayout.astro"
